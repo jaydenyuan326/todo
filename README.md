@@ -102,7 +102,7 @@ When the user selects **"Sort By Priority"**, the application triggers a custom 
 3.  **Run the application**:
 
     ```bash
-    python todo_master.py
+    python todo_app.py
     ```
 
 -----
